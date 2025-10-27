@@ -1,0 +1,5 @@
+{
+  "name": "The Finder: Crypto Project Analyzer",
+  "description": "An AI-powered tool to analyze and score token-less crypto projects based on various risk filters. Users can select from default risk profiles or create custom filters to get a detailed breakdown of a project's potential, founders, and airdrop opportunities.",
+  "requestFramePermissions": []
+}
